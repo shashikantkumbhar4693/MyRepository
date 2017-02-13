@@ -1,7 +1,7 @@
 This is Git Demo File... 
 
-change 1 : I have changed the file..
+Change-1 : I have changed the file..
 
-change 2 : I have changed the file third time..
+Change-2 : I have changed the file third time..
 
-hjkhk
+Hjkhk
