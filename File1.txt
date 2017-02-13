@@ -1,6 +1,6 @@
 This is Git Demo File... 
 
-Change-1 : I have changed the file..
+Change-1 : I have changed the file.. This is merging complex situation..
 
 Change-2 : I have changed the file third time..
 
